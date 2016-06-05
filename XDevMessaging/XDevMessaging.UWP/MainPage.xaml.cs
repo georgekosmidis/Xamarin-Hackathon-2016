@@ -27,10 +27,10 @@ namespace XDevMessaging.UWP
             
             Xamarin.FormsMaps.Init("PUT_YOUR_KEY_HERE");
 
-            this.InitializeComponent();           
+            this.InitializeComponent();
 
-            //PushNotification.Plugin.CrossPushNotification.Initialize<Notifications.CrossPushNotificationListener>();
-            //PushNotification.Plugin.CrossPushNotification.Current.Register();
+            PushNotification.Plugin.CrossPushNotification.Initialize<Notifications.CrossPushNotificationListener>();
+            PushNotification.Plugin.CrossPushNotification.Current.Register();
             //var o = PushNotification.Plugin.CrossPushNotification.Current.Token;
 
             //XDevMessaging.Notifications.CrossPushNotificationSender.PushNotification(o, "test", "test");

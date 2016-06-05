@@ -9,16 +9,16 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>f736c883-f105-4d30-a719-4bf328872f5e</PackageIdentityName>
-    <IntermediateOutputPath>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\obj\x86\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\bin\x86\Debug\XDevMessaging.UWP.exe">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\bin\x86\Debug\XDevMessaging.UWP.exe">
       <PackagePath>entrypoint\XDevMessaging.UWP.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georgekosmidis\.nuget\packages\Microsoft.Azure.Mobile.Client\2.0.1\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll">
@@ -78,7 +78,7 @@
     <AppxPackagedFile Include="C:\Users\georgekosmidis\.nuget\packages\Microsoft.Win32.Primitives\4.0.0\lib\dotnet\Microsoft.Win32.Primitives.dll">
       <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georgekosmidis\.nuget\packages\Newtonsoft.Json\6.0.4\lib\netcore45\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="C:\Users\georgekosmidis\.nuget\packages\Newtonsoft.Json\8.0.3\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georgekosmidis\.nuget\packages\System.AppContext\4.0.0\lib\netcore50\System.AppContext.dll">
@@ -378,71 +378,80 @@
     <AppxPackagedFile Include="C:\Users\georgekosmidis\.nuget\packages\Xamarin.Forms.Maps\2.2.0.45\lib\uap10.0\Xamarin.Forms.Maps.dll">
       <PackagePath>Xamarin.Forms.Maps.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging\bin\Debug\XDevMessaging.dll">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.Abstractions\bin\Debug\PushNotification.Plugin.Abstractions.dll">
+      <PackagePath>PushNotification.Plugin.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.UWP\bin\x86\Debug\PushNotification.Plugin.UWP.dll">
+      <PackagePath>PushNotification.Plugin.UWP.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging\bin\Debug\XDevMessaging.dll">
       <PackagePath>XDevMessaging.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Infrastructure\bin\Debug\XDevMessaging.Infrastructure.dll">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.Infrastructure\bin\Debug\XDevMessaging.Infrastructure.dll">
       <PackagePath>XDevMessaging.Infrastructure.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\Assets\c_plusplus.png">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\Assets\c_plusplus.png">
       <PackagePath>Assets\c_plusplus.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\Assets\c_sharp.png">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\Assets\c_sharp.png">
       <PackagePath>Assets\c_sharp.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\Assets\delphi.png">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\Assets\delphi.png">
       <PackagePath>Assets\delphi.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\Assets\java.png">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\Assets\java.png">
       <PackagePath>Assets\java.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\Assets\js.png">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\Assets\js.png">
       <PackagePath>Assets\js.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\Assets\meetup.png">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\Assets\meetup.png">
       <PackagePath>Assets\meetup.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\Assets\php.png">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\Assets\php.png">
       <PackagePath>Assets\php.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\Assets\python.png">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\Assets\python.png">
       <PackagePath>Assets\python.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\Assets\ruby.png">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\Assets\ruby.png">
       <PackagePath>Assets\ruby.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\bin\x86\Debug\XDevMessaging.UWP.xr.xml">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\bin\x86\Debug\XDevMessaging.UWP.xr.xml">
       <PackagePath>XDevMessaging.UWP.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin\bin\Debug\PushNotification.Plugin.dll">
+      <PackagePath>PushNotification.Plugin.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -453,10 +462,10 @@
     <AppxPackagedFile Include="C:\Users\georgekosmidis\.nuget\packages\Xamarin.Forms\2.2.0.45\lib\uap10.0\Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\bin\x86\Debug\Core\XDevMessaging.UWP.exe">
+    <AppxPackagedFile Include="F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.UWP\bin\x86\Debug\Core\XDevMessaging.UWP.exe">
       <PackagePath>XDevMessaging.UWP.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

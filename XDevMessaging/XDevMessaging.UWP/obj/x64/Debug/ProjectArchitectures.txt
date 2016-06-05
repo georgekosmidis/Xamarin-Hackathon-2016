@@ -1,4 +1,0 @@
-F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Infrastructure\XDevMessaging.Infrastructure.csproj;neutral
-F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Infrastructure\XDevMessaging.Infrastructure.csproj;neutral
-F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.UWP\XDevMessaging.UWP.csproj;x64
-F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging\XDevMessaging.csproj;neutral

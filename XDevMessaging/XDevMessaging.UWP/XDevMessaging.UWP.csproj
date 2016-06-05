@@ -140,6 +140,14 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\PushNotification.Plugin.Abstractions\PushNotification.Plugin.Abstractions.csproj">
+      <Project>{6edb0588-ffc5-4ef5-8a99-9e241d0f878d}</Project>
+      <Name>PushNotification.Plugin.Abstractions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PushNotification.Plugin.UWP\PushNotification.Plugin.UWP.csproj">
+      <Project>{807fd616-74a7-4800-ab46-481aaf966f1d}</Project>
+      <Name>PushNotification.Plugin.UWP</Name>
+    </ProjectReference>
     <ProjectReference Include="..\XDevMessaging.Infrastructure\XDevMessaging.Infrastructure.csproj">
       <Project>{007557db-2ca0-4114-9709-62c439a130b9}</Project>
       <Name>XDevMessaging.Infrastructure</Name>

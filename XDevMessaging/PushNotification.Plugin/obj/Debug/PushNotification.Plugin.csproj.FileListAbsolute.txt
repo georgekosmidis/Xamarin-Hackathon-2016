@@ -1,0 +1,11 @@
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin\bin\Debug\PushNotification.Plugin.dll
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin\bin\Debug\PushNotification.Plugin.pdb
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin\bin\Debug\Newtonsoft.Json.dll
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin\bin\Debug\PushNotification.Plugin.Abstractions.dll
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin\bin\Debug\PushNotification.Plugin.Abstractions.pdb
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin\bin\Debug\Newtonsoft.Json.xml
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin\obj\Debug\PushNotification.Plugin.csprojResolveAssemblyReference.cache
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin\obj\Debug\PushNotification.Plugin.dll
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin\obj\Debug\PushNotification.Plugin.pdb
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin\obj\Debug\PushNotification.Plugin.dll.mdb
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin\bin\Debug\PushNotification.Plugin.dll.mdb

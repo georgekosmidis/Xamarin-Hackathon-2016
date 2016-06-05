@@ -1,0 +1,10 @@
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.Abstractions\bin\Debug\PushNotification.Plugin.Abstractions.dll
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.Abstractions\bin\Debug\PushNotification.Plugin.Abstractions.pdb
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.Abstractions\bin\Debug\Newtonsoft.Json.dll
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.Abstractions\bin\Debug\Newtonsoft.Json.xml
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.Abstractions\obj\Debug\PushNotification.Plugin.Abstractions.dll
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.Abstractions\obj\Debug\PushNotification.Plugin.Abstractions.pdb
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.Abstractions\obj\Debug\PushNotification.Plugin.Abstractions.dll.mdb
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.Abstractions\bin\Debug\PushNotification.Plugin.Abstractions.dll.mdb
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.Abstractions\obj\Debug\PushNotification.Plugin.Abstractions.dll.mdb
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.Abstractions\bin\Debug\PushNotification.Plugin.Abstractions.dll.mdb

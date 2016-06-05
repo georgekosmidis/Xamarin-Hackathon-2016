@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <AdditionalAndroidResourcePaths>
+    <AdditionalAndroidResourcePath>C:\Users\georgekosmidis\AppData\Local\Xamarin\Android.Support.v4\22.2.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\georgekosmidis\AppData\Local\Xamarin\GooglePlayServices.Base\25.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\georgekosmidis\AppData\Local\Xamarin\GooglePlayServices.Gcm\25.0.0\embedded</AdditionalAndroidResourcePath>
+  </AdditionalAndroidResourcePaths>
+  <AdditionalJavaLibraryReferences>
+    <AdditionalJavaLibraryReference>C:\Users\georgekosmidis\AppData\Local\Xamarin\Android.Support.v4\22.2.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\georgekosmidis\AppData\Local\Xamarin\Android.Support.v4\22.2.0\embedded\libs\internal_impl-22.2.0.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\georgekosmidis\AppData\Local\Xamarin\GooglePlayServices.Base\25.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\georgekosmidis\AppData\Local\Xamarin\GooglePlayServices.Gcm\25.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+  </AdditionalJavaLibraryReferences>
+  <AdditionalNativeLibraryReferences />
+</Paths>

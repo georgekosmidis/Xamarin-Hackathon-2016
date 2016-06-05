@@ -1,3 +1,5 @@
-F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Infrastructure\XDevMessaging.Infrastructure.csproj;neutral
-F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.WinPhone\XDevMessaging.WinPhone.csproj;x86
-F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging\XDevMessaging.csproj;neutral
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.Abstractions\PushNotification.Plugin.Abstractions.csproj;neutral
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin\PushNotification.Plugin.csproj;neutral
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.Infrastructure\XDevMessaging.Infrastructure.csproj;neutral
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging.WinPhone\XDevMessaging.WinPhone.csproj;x86
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\XDevMessaging\XDevMessaging.csproj;neutral

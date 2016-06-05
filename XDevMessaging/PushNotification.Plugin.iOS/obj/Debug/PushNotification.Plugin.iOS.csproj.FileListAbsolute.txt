@@ -1,0 +1,13 @@
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.iOS\bin\iPhone\Debug\PushNotification.Plugin.dll
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.iOS\bin\iPhone\Debug\PushNotification.Plugin.pdb
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.iOS\bin\iPhone\Debug\PushNotification.Plugin.Abstractions.dll
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.iOS\bin\iPhone\Debug\PushNotification.Plugin.Abstractions.pdb
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.iOS\bin\iPhone\Debug\PushNotification.Plugin.Abstractions.dll.mdb
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.iOS\bin\iPhone\Debug\Newtonsoft.Json.xml
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.iOS\obj\Debug\optimized\
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.iOS\obj\Debug\PushNotification.Plugin.iOS.csprojResolveAssemblyReference.cache
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.iOS\obj\Debug\PushNotification.Plugin.dll
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.iOS\obj\Debug\PushNotification.Plugin.pdb
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.iOS\obj\Debug\PushNotification.Plugin.dll.mdb
+F:\git\GitHub\Xamarin-Hackathon-2016\XDevMessaging\PushNotification.Plugin.iOS\bin\iPhone\Debug\PushNotification.Plugin.dll.mdb
