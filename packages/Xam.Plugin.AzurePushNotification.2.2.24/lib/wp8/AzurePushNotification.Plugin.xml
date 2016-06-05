@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AzurePushNotification.Plugin</name>
+    </assembly>
+    <members>
+        <member name="T:AzurePushNotification.Plugin.CrossAzurePushNotification">
+            <summary>
+            Cross platform AzurePushNotificationForXamarinForms implemenations
+            </summary>
+        </member>
+        <member name="P:AzurePushNotification.Plugin.CrossAzurePushNotification.Current">
+            <summary>
+            Current settings to use
+            </summary>
+        </member>
+        <member name="T:AzurePushNotification.Plugin.AzurePushNotificationImplementation">
+            <summary>
+            Implementation for AzurePushNotification
+            </summary>
+        </member>
+    </members>
+</doc>

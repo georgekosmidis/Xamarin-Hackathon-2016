@@ -1,0 +1,3 @@
+F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Infrastructure\XDevMessaging.Infrastructure.csproj;neutral
+F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.WinPhone\XDevMessaging.WinPhone.csproj;x86
+F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging\XDevMessaging.csproj;neutral

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Plugin.Connectivity\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Plugin.CurrentActivity\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Plugin.Geolocator\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Plugin.Permissions\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Maps.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Plugin.Connectivity\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Plugin.CurrentActivity\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Plugin.Geolocator\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Plugin.Permissions\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Maps.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Plugin.Connectivity.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Plugin.CurrentActivity.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Plugin.Geolocator.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Plugin.Permissions.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Maps.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\git\Xamarin-Hackathon\Final_Project\XDevMessaging\XDevMessaging\XDevMessaging.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

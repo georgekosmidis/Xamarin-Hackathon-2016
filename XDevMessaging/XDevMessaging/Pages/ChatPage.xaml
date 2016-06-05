@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XDevMessaging.Pages.ChatPage"
+             xmlns:plugin="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions"
+             xmlns:local="clr-namespace:XDevMessaging;assembly=XDevMessaging">
+  <ContentPage.Resources>
+  </ContentPage.Resources>
+  <StackLayout Orientation="Vertical">
+    <ListView x:Name="messageList"
+    HasUnevenRows="True"
+    SeparatorVisibility="None">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <Grid ColumnSpacing="2" Padding="5">
+              <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="40"></ColumnDefinition>
+              </Grid.ColumnDefinitions>
+              <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+
+              </Grid.RowDefinitions>
+              <Frame Grid.Row="0" OutlineColor="Transparent" HasShadow="False" Grid.Column="1" BackgroundColor="{Binding BackgroundColor}">
+                <Label FontSize="14" TextColor="{Binding TextColor}" HorizontalTextAlignment="{Binding HorizontalTextAlignment}" Text="{Binding From}" />
+                <Label FontSize="14" TextColor="{Binding TextColor}"  HorizontalTextAlignment="{Binding HorizontalTextAlignment}" Text="{Binding Body}" />
+              </Frame>
+              <Label FontSize="Micro" Grid.Row="1" Grid.Column="1" HorizontalTextAlignment="{Binding HorizontalTextAlignment}" Text="{Binding TimeStamp, StringFormat='{0:MM/dd/yyyy hh:mm tt}'}" TextColor="Gray"></Label>
+            </Grid>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+    <StackLayout Orientation="Horizontal">
+      <Entry x:Name="InputText" HeightRequest="25" Placeholder="Type a message..." HorizontalOptions="FillAndExpand"></Entry>
+      <Button Text="Send" Clicked="SendMessageCommand" ></Button>
+    </StackLayout>
+  </StackLayout>
+</ContentPage>
+

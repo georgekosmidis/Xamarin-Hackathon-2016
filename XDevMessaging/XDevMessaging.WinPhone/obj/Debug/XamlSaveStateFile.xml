@@ -1,0 +1,21 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="f:\git\xamarin-hackathon\final_project\xdevmessaging\packages\microsoft.azure.mobile.client.2.0.1\lib\wpa81\microsoft.windowsazure.mobile.dll" HashGuid="d7ccb84c-759c-fa2f-e873-8857cbb0622e" />
+    <ReferenceAssembly PathName="f:\git\xamarin-hackathon\final_project\xdevmessaging\packages\microsoft.azure.mobile.client.2.0.1\lib\wpa81\microsoft.windowsazure.mobile.ext.dll" HashGuid="7257e1c7-0d78-874d-e034-cfcf53b1e796" />
+    <ReferenceAssembly PathName="f:\git\xamarin-hackathon\final_project\xdevmessaging\packages\newtonsoft.json.6.0.4\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="02b12ba6-881e-6b8a-1687-5b2ee1851a11" />
+    <ReferenceAssembly PathName="f:\git\xamarin-hackathon\final_project\xdevmessaging\packages\xam.plugin.connectivity.2.1.2\lib\wpa81\plugin.connectivity.abstractions.dll" HashGuid="4e4bd94f-773b-8622-55aa-d505d3ad2f69" />
+    <ReferenceAssembly PathName="f:\git\xamarin-hackathon\final_project\xdevmessaging\packages\xam.plugin.connectivity.2.1.2\lib\wpa81\plugin.connectivity.dll" HashGuid="6f3a385f-2a26-c0d4-839b-6225ab9a7ccb" />
+    <ReferenceAssembly PathName="f:\git\xamarin-hackathon\final_project\xdevmessaging\packages\xam.plugin.geolocator.3.0.4\lib\wpa81\plugin.geolocator.abstractions.dll" HashGuid="20adc366-e6fc-8a10-1342-7d33d9231080" />
+    <ReferenceAssembly PathName="f:\git\xamarin-hackathon\final_project\xdevmessaging\packages\xam.plugin.geolocator.3.0.4\lib\wpa81\plugin.geolocator.dll" HashGuid="618defcf-6366-faf9-0828-d0d769893df2" />
+    <ReferenceAssembly PathName="f:\git\xamarin-hackathon\final_project\xdevmessaging\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="f:\git\xamarin-hackathon\final_project\xdevmessaging\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="f:\git\xamarin-hackathon\final_project\xdevmessaging\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.core.dll" HashGuid="2a418b72-55c1-19a8-a363-4b8c348fbee0" />
+    <ReferenceAssembly PathName="f:\git\xamarin-hackathon\final_project\xdevmessaging\packages\xamarin.forms.maps.2.2.0.45\lib\wpa81\xamarin.forms.maps.dll" HashGuid="ed9c28df-835e-9228-f013-bb1216e25d67" />
+    <ReferenceAssembly PathName="f:\git\xamarin-hackathon\final_project\xdevmessaging\packages\xamarin.forms.maps.2.2.0.45\lib\wpa81\xamarin.forms.maps.winrt.phone.dll" HashGuid="3135e740-c5f2-4d65-dc3f-ed8420117299" />
+    <ReferenceAssembly PathName="f:\git\xamarin-hackathon\final_project\xdevmessaging\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.platform.dll" HashGuid="bb4040f4-26bb-5883-795e-627e39855666" />
+    <ReferenceAssembly PathName="f:\git\xamarin-hackathon\final_project\xdevmessaging\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="068a3578-03d9-2580-f12e-c531e1d2d71c" />
+    <ReferenceAssembly PathName="f:\git\xamarin-hackathon\final_project\xdevmessaging\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="52b59dd3-49ca-beb7-ea1e-5100cbca4812" />
+    <ReferenceAssembly PathName="f:\git\xamarin-hackathon\final_project\xdevmessaging\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="39a2c026-b4e0-6e41-04bc-58950ef1ecfd" />
+    <ReferenceAssembly PathName="f:\git\xamarin-hackathon\final_project\xdevmessaging\xdevmessaging\xdevmessaging\bin\debug\xdevmessaging.dll" HashGuid="8b3166e7-975f-1e83-3ae3-7247e6eae0ee" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

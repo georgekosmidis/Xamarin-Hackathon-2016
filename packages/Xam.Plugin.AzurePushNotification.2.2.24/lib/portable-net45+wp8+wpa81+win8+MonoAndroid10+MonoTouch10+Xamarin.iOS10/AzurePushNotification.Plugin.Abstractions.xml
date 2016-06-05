@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AzurePushNotification.Plugin.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:AzurePushNotification.Plugin.Abstractions.IAzurePushNotification">
+            <summary>
+            Interface for AzurePushNotificationForXamarinForms
+            </summary>
+        </member>
+        <member name="M:AzurePushNotification.Plugin.Abstractions.IAzurePushNotification.RegisterForAzurePushNotification">
+            <summary>
+            Registers for Azure Push Notification using 
+            the credentials provided in PushNotificationCredentials class.
+            </summary>
+        </member>
+        <member name="M:AzurePushNotification.Plugin.Abstractions.IAzurePushNotification.UnregisterFromAzurePushNotification">
+            <summary>
+            Unregisters from Azure Push Notification using 
+            the credentials provided in PushNotificationCredentials class.
+            </summary>
+        </member>
+        <member name="T:AzurePushNotification.Plugin.Abstractions.PushNotificationCredentials">
+            <summary>
+            Contains credentials for accessing Microsoft Azure Push Notifications 
+            and Google Cloud Messaging.
+            </summary>
+        </member>
+        <member name="F:AzurePushNotification.Plugin.Abstractions.PushNotificationCredentials.GoogleApiSenderId">
+            <summary>
+            Google API Project Number.
+            </summary>
+        </member>
+        <member name="F:AzurePushNotification.Plugin.Abstractions.PushNotificationCredentials.AzureNotificationHubName">
+            <summary>
+            The name of the Azure Notification Hub created inside Azure portal.
+            </summary>
+        </member>
+        <member name="F:AzurePushNotification.Plugin.Abstractions.PushNotificationCredentials.AzureListenConnectionString">
+            <summary>
+            The listen connection string found under "Connection Information" 
+            of the Notification Hub.
+            </summary>
+        </member>
+        <member name="F:AzurePushNotification.Plugin.Abstractions.PushNotificationCredentials.Tags">
+            <summary>
+            The tags to register for with Azure Push Notifications.
+            </summary>
+        </member>
+    </members>
+</doc>

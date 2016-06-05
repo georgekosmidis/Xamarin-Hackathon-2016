@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XDevMessaging.Pages.LoginPage"
+             Title="Login Page"
+             BackgroundColor="White"
+             Padding="20, 20, 20, 20">
+  
+	<ContentPage.Content>
+    <AbsoluteLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+      <StackLayout AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0,0,1,1">
+        <ContentView Padding="0,0,0,20">
+          <Label Text="MeetADev Login Page" FontSize="Large" HorizontalOptions="CenterAndExpand" TextColor="Black" />
+        </ContentView>
+        <StackLayout Orientation="Vertical">
+          <Label Text="Username : " TextColor="Black" FontSize="Medium" />
+          <Entry Placeholder="Username" HorizontalOptions="FillAndExpand" x:Name="UsernameEntry" TextColor="Black" />
+        </StackLayout>
+        <StackLayout Orientation="Vertical">
+          <Label Text="Password : " TextColor="Black" FontSize="Medium" />
+          <Entry Placeholder="Password" HorizontalOptions="FillAndExpand" IsPassword="true" x:Name="PasswordEntry" TextColor="Black"  />
+        </StackLayout>
+        <StackLayout Orientation="Vertical">
+          <Label Text="" TextColor="Red" x:Name="LoginCallbackLabel" FontSize="Small" />
+        </StackLayout>
+        <Button Text="Log In" BackgroundColor="Navy" Clicked="OnLoginBtnClicked" HorizontalOptions="Center" TextColor="White" x:Name="LoginButton" />
+        <ContentView Padding="0,20,0,0">
+          <Button Text="Register" BackgroundColor="White" TextColor="Navy" Clicked="OnRegisterBtnClicked" HorizontalOptions="Center" x:Name="RegisterButton"
+                  BorderRadius="15" BorderColor="Navy" BorderWidth="2"/>
+        </ContentView>
+      </StackLayout>
+            <StackLayout x:Name="BoxIndicator" Padding="6" Orientation="Horizontal" BackgroundColor="Yellow" IsVisible="False" AbsoluteLayout.LayoutBounds="0.5, 0.5, -1, -1" AbsoluteLayout.LayoutFlags="PositionProportional">
+                <ActivityIndicator x:Name="ActIndicator"  Color="Blue" IsRunning="True" VerticalOptions="Center" WidthRequest="20" HeightRequest="20" />
+                <Label TextColor="Blue" Text="Loading..." FontSize="Medium" VerticalOptions="Center" />
+            </StackLayout>
+    </AbsoluteLayout>
+	</ContentPage.Content>
+</ContentPage>

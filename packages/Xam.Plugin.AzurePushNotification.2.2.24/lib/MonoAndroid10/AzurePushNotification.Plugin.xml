@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AzurePushNotification.Plugin</name>
+    </assembly>
+    <members>
+        <member name="T:AzurePushNotification.Plugin.CrossAzurePushNotification">
+            <summary>
+            Cross platform AzurePushNotificationForXamarinForms implemenations
+            </summary>
+        </member>
+        <member name="P:AzurePushNotification.Plugin.CrossAzurePushNotification.Current">
+            <summary>
+            Current settings to use
+            </summary>
+        </member>
+        <member name="T:AzurePushNotification.Plugin.AzurePushNotificationImplementation">
+            <summary>
+            Implementation for Feature
+            </summary>
+        </member>
+        <member name="F:AzurePushNotification.Plugin.AzurePushNotificationImplementation.MainActivityInstance">
+            <summary>
+            References the MainActivity object of the Xamarin.Android project.
+            </summary>
+        </member>
+        <member name="F:AzurePushNotification.Plugin.AzurePushNotificationImplementation.NotificationIconDrawable">
+            <summary>
+            The icon to be shown with notifications.
+            </summary>
+        </member>
+        <member name="M:AzurePushNotification.Plugin.AzurePushNotificationImplementation.RegisterForAzurePushNotification">
+            <summary>
+            For Android project, obj must be the MainActivity.
+            </summary>
+            <param name="obj"></param>
+        </member>
+        <member name="T:AzurePushNotification.Plugin.MyBroadcastReceiver">
+            <summary>
+            https://azure.microsoft.com/en-us/documentation/articles/partner-xamarin-notification-hubs-android-get-started/#overview
+            </summary>
+        </member>
+        <member name="F:AzurePushNotification.Plugin.MyBroadcastReceiver.SENDER_IDS">
+            <summary>
+            returns PushNotificationCredentials.GoogleApiSenderId.
+            </summary>
+        </member>
+        <member name="T:AzurePushNotification.Plugin.PushHandlerService">
+            <summary>
+            PushHandlerService is the object that contains actual code for registering, 
+            unregistering and receiving push notifications.
+            </summary>
+        </member>
+        <member name="M:AzurePushNotification.Plugin.PushHandlerService.OnUnRegistered(Android.Content.Context,System.String)">
+            <summary>
+            Not using this method as it generates an unknown error causing the app to crash.
+            </summary>
+            <param name="title"></param>
+            <param name="message"></param>
+        </member>
+    </members>
+</doc>

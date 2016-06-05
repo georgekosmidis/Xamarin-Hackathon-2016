@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             xmlns:local="clr-namespace:XDevMessaging.Maps;assembly=XDevMessaging"
+             x:Class="XDevMessaging.Pages.MapPage"            
+             Title="Map Page"
+             BackgroundColor="White"
+             Padding="20, 20, 20, 20">
+
+  <ContentPage.ToolbarItems>
+    <ToolbarItem Name="Log Out" Activated="OnToolbarItemClick"  Order="Primary" Priority="0" />
+  </ContentPage.ToolbarItems>
+
+  <ContentPage.Content>
+    
+        <StackLayout VerticalOptions="FillAndExpand" Padding="0">
+          <local:XDevMap x:Name="MyMap" MapType="Street"
+          WidthRequest="960" HeightRequest="100" />
+          <!--
+        <maps:Map WidthRequest="960" HeightRequest="100"
+            x:Name="MyMap"
+            IsShowingUser="true"
+            MapType="Street"
+            
+        />
+      -->
+	<!--<StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand">
+	  <Label Text="MeetADev Map Page" FontSize="Large" HorizontalOptions="CenterAndExpand" />
+		<Button Text="Pin" BackgroundColor="White" TextColor="Blue" Clicked="OnPinBtnClicked" HorizontalOptions="Center" />-->
+    
+    
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>
