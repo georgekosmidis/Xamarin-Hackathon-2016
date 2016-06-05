@@ -8,4 +8,5 @@ The project  features an interactive map with the position of all developers tha
 Blog Posts about the event
 --------------------------
 http://www.meetup.com/Thessaloniki-NET-Meetup/events/231238472/
+
 http://devteam.epsilonnet.gr/xamarin-hackathon-1st-place/
